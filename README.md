@@ -1,7 +1,10 @@
-
+.altiCizgili {
+    text-decoration: underline;
+}
  <b>Proje Planı: TCK'ya göre Hakaret İçeren Yorumları Tespit Etme Sistemi </b>
 
- 1. Proje Tanımı <b><u>(Yapıldı)</u></b>
+ 1. Proje Tanımı <b><p class="altiCizgili"> (Yapıldı)</p></b>
+ 
    - Amaç:Popüler kadın programının Instagram hesabından toplanan yorumları analiz ederek hakaret içeren yorumları tespit etmek.
    - Hedef:Sosyal medya platformlarında kullanıcı güvenliğini artırmak ve olumsuz içerikleri filtrelemek.
 
