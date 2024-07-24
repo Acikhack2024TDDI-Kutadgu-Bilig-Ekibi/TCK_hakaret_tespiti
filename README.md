@@ -1,9 +1,7 @@
 
  <b>Proje Planı: TCK'ya göre Hakaret İçeren Yorumları Tespit Etme Sistemi </b>
 
- 1. Proje Tanımı <u> (Yapıldı) </u>
- <u>Bu metin altı çizgilidir.</u>
- 
+ 1. Proje Tanımı <b><u>(Yapıldı)</u></b>
    - Amaç:Popüler kadın programının Instagram hesabından toplanan yorumları analiz ederek hakaret içeren yorumları tespit etmek.
    - Hedef:Sosyal medya platformlarında kullanıcı güvenliğini artırmak ve olumsuz içerikleri filtrelemek.
 
