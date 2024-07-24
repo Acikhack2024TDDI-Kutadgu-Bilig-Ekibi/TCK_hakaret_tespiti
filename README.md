@@ -5,7 +5,7 @@
    - Amaç:Popüler kadın programının Instagram hesabından toplanan yorumları analiz ederek hakaret içeren yorumları tespit etmek.
    - Hedef:Sosyal medya platformlarında kullanıcı güvenliğini artırmak ve olumsuz içerikleri filtrelemek.
 
- 2. Veri Toplama  (Yapıldı, kodlar ve etiketlenen dataset eklendi)
+ 2. Veri Toplama  <b><u>(Yapıldı, kodlar ve etiketlenen dataset eklendi)</u></b>
    - Veri Kaynağı:  8 Temmuz - 14 Temmuz 2024
      - Popüler kadın programının Instagram hesabından yorumları toplamak için bir web scraping aracı kullanılacak.
    - Veri Setinin Oluşturulması: 15 Temmuz - 21 Temmuz 2024  
