@@ -2,8 +2,8 @@
 
  1. Proje Tanımı <b>(Yapıldı)</b>
  
-   - Amaç:Popüler kadın programının Instagram hesabından toplanan yorumları analiz ederek hakaret içeren yorumları tespit etmek.
-   - Hedef:Sosyal medya platformlarında kullanıcı güvenliğini artırmak ve olumsuz içerikleri filtrelemek.
+   - Amaç: Popüler kadın programının Instagram hesabından toplanan yorumları analiz ederek hakaret içeren yorumları tespit etmek.
+   - Hedef: Sosyal medya platformlarında kullanıcı güvenliğini artırmak ve olumsuz içerikleri filtrelemek.
 
  2. Veri Toplama  <b><u>(Yapıldı, kodlar ve etiketlenen dataset eklendi)</u></b>
    - Veri Kaynağı:  8 Temmuz - 14 Temmuz 2024
