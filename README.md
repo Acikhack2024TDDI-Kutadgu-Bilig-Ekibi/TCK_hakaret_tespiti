@@ -1,14 +1,14 @@
 
  <b>Proje Planı: TCK'ya göre Hakaret İçeren Yorumları Tespit Etme Sistemi <b>
 
- 1. Proje Tanımı
+ 1. Proje Tanımı (Yapıldı)
    - Amaç:Popüler kadın programının Instagram hesabından toplanan yorumları analiz ederek hakaret içeren yorumları tespit etmek.
    - Hedef:Sosyal medya platformlarında kullanıcı güvenliğini artırmak ve olumsuz içerikleri filtrelemek.
 
- 2. Veri Toplama 
+ 2. Veri Toplama  (Yapıldı, kodlar ve etiketlenen dataset eklendi)
    - Veri Kaynağı:  8 Temmuz - 14 Temmuz 2024
      - Popüler kadın programının Instagram hesabından yorumları toplamak için bir web scraping aracı kullanılacak.
-   - Veri Setinin Oluşturulması: 15 Temmuz - 21 Temmuz 2024 
+   - Veri Setinin Oluşturulması: 15 Temmuz - 21 Temmuz 2024  
      - Toplanan yorumlar, hakaret içeren ve içermeyen olarak etiketlenecek. 
      
  3. Veri Ön İşleme  22 Temmuz - 28 Temmuz 2024 
