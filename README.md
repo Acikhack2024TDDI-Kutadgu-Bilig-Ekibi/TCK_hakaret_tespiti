@@ -1,6 +1,3 @@
-.altiCizgili {
-    text-decoration: underline;
-}
  <b>Proje Planı: TCK'ya göre Hakaret İçeren Yorumları Tespit Etme Sistemi </b>
 
  1. Proje Tanımı <b>(Yapıldı)</b>
