@@ -22,36 +22,36 @@
      - Kelimeleri sayısal verilere dönüştürmek için Word2Vec, GloVe veya FastText gibi teknikler kullanılacak.
 
  4. Model Seçimi
-   - Derin Öğrenme Modelleri:  22 Temmuz - 28 Temmuz 2024 
+   - Derin Öğrenme Modelleri:  28 Temmuz - 31 Temmuz 2024 
      - LSTM, BiLSTM, GRU, CNN gibi derin öğrenme modelleri belirlenecek.
    - Klasik Makine Öğrenmesi Modelleri:
      - Naive Bayes, SVM, Karar Ağacı, Rastgele Orman, Lojistik Regresyon gibi klasik makine öğrenmesi teknikleri belirlenecek.
 
  5. Model Geliştirme 
-   - Modelin Eğitilmesi:   22 Temmuz - 28 Temmuz 2024 
+   - Modelin Eğitilmesi:   28 Temmuz - 31 Temmuz 2024 
      - Seçilen modeller eğitim verisi ile eğitilecek.
    - Hiperparametre Ayarı:
      - Modellerin hiperparametre ayarları optimize edilecek.
    - Modelin Değerlendirilmesi:
      - Eğitim ve test verileri kullanılarak modellerin performansı değerlendirilecek.
 
- 6. Performans Ölçümü    22 Temmuz - 28 Temmuz 2024 
+ 6. Performans Ölçümü    31 Temmuz - 04 Temmuz 2024 
    - Performans Metrikleri:
      - F1 puanı, doğruluk, hassasiyet ve geri çağırma gibi metrikler hesaplanacak.
    - Karşılaştırma:
      - Derin öğrenme ve klasik makine öğrenmesi modelleri bu metrikler açısından karşılaştırılacak.
 
- 7. Sonuçların Analizi   29 Temmuz - 4 Ağustos  2024 
+ 7. Sonuçların Analizi   28 Temmuz - 31 Temmuz 2024 
    - Model Başarısı:
      - Hangi modelin en iyi sonuçları verdiği analiz edilecek.
    - Hata Analizi:
      - Yanlış sınıflandırılan örnekler incelenecek ve modelin zayıf noktaları belirlenecek.
 
- 8. Uygulama Geliştirme 29 Temmuz - 4 Ağustos  2024 
+ 8. Uygulama Geliştirme 31 Temmuz - 4 Ağustos  2024 
    - Modelin Entegrasyonu:
-     - En iyi performansı gösteren model, sosyal medya platformlarında kullanılabilir bir yorum filtreleme sistemi olarak entegre edilecek.
+     - En iyi performansı gösteren model, sosyal medya platformlarında kullanılabilir bir yorum filtreleme sistemi olacak.
    
- 9. Sonuçların Raporlanması 29 Temmuz - 4 Ağustos  2024 
+ 9. Sonuçların Raporlanması 31 Temmuz - 4 Ağustos  2024 
    - Rapor Yazımı:
      - Proje süreci, bulgular ve sonuçlar içeren bir rapor hazırlanacak.
    - Sunum Hazırlığı:
