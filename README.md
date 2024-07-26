@@ -11,7 +11,7 @@
    - Veri Setinin Oluşturulması: 15 Temmuz - 21 Temmuz 2024  
      - Toplanan yorumlar, hakaret içeren ve içermeyen olarak etiketlenecek. 
      
- 3. Veri Ön İşleme  22 Temmuz - 28 Temmuz 2024 
+ 3. Veri Ön İşleme  22 Temmuz - 28 Temmuz 2024  <b>(Yapıldı)</b>
    - Temizlik:
      - Toplanan verilerdeki gereksiz karakterler, boşluklar ve özel semboller temizlenecek.
    - Tokenizasyon:
