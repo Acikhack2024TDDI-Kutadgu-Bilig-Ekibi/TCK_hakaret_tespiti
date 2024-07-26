@@ -21,14 +21,14 @@
    - Kelime Gömme:
      - Kelimeleri sayısal verilere dönüştürmek için Word2Vec, GloVe veya FastText gibi teknikler kullanılacak.
 
- 4. Model Seçimi
-   - Derin Öğrenme Modelleri:  28 Temmuz - 31 Temmuz 2024 
+ 4. Model Seçimi   28 Temmuz - 31 Temmuz 2024 
+   - Derin Öğrenme Modelleri:  
      - LSTM, BiLSTM, GRU, CNN gibi derin öğrenme modelleri belirlenecek.
    - Klasik Makine Öğrenmesi Modelleri:
      - Naive Bayes, SVM, Karar Ağacı, Rastgele Orman, Lojistik Regresyon gibi klasik makine öğrenmesi teknikleri belirlenecek.
 
- 5. Model Geliştirme 
-   - Modelin Eğitilmesi:   28 Temmuz - 31 Temmuz 2024 
+ 5. Model Geliştirme  28 Temmuz - 31 Temmuz 2024 
+   - Modelin Eğitilmesi:   
      - Seçilen modeller eğitim verisi ile eğitilecek.
    - Hiperparametre Ayarı:
      - Modellerin hiperparametre ayarları optimize edilecek.
