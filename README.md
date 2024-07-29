@@ -19,7 +19,7 @@
    - Düşük Frekanslı Kelimelerin Çıkarılması:
      - Sıklığı düşük olan kelimeler veri setinden çıkarılacak (Stop-Word).
    - Kelime Gömme:
-     - Kelimeleri sayısal verilere dönüştürmek için Word2Vec, GloVe veya FastText gibi teknikler kullanılacak.
+     - Kelimeleri sayısal verilere dönüştürmek için Word2Vec, GloVe,, FastText veya Transformatörler gibi teknikler kullanılacak.
 
  4. Model Seçimi   28 Temmuz - 31 Temmuz 2024 
    - Derin Öğrenme Modelleri:  
