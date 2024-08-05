@@ -19,7 +19,7 @@
    - Düşük Frekanslı Kelimelerin Çıkarılması:
      - Sıklığı düşük olan kelimeler veri setinden çıkarılacak (Stop-Word).
    - Kelime Gömme:
-     - Kelimeleri sayısal verilere dönüştürmek için Word2Vec, GloVe,, FastText veya Transformatörler gibi teknikler kullanılacak.
+     - Kelimeleri sayısal verilere dönüştürmek için Word2Vec, GloVe, BERT Transformatörler gibi teknikler kullanıldı.
 
  4. Model Seçimi   28 Temmuz - 31 Temmuz 2024 
    - Derin Öğrenme Modelleri:  
@@ -37,7 +37,7 @@
 
  6. Performans Ölçümü    31 Temmuz - 04 Temmuz 2024 
    - Performans Metrikleri:
-     - F1 puanı, doğruluk, hassasiyet ve geri çağırma gibi metrikler hesaplanacak.
+     - Makro F1 puanı, doğruluk, hassasiyet ve geri çağırma gibi metrikler hesaplanacak.
    - Karşılaştırma:
      - Derin öğrenme ve klasik makine öğrenmesi modelleri bu metrikler açısından karşılaştırılacak.
 
@@ -57,12 +57,4 @@
    - Sunum Hazırlığı:
      - Projeyi sunmak için bir sunum hazırlanacak ve mentorün geri bildirimleriyle geliştirilecek.
 
- 10. Veri Paylaşımı ve Yaygınlaştırma 5 Ağustos  2024 
-   - Veri Kümesi Yayınlama:
-   - Araştırma Sonuçlarının Paylaşılması:
-     
-
- 11. Geri Bildirim ve İyileştirme 6 Ağustos  2024 
-   - Geri Bildirim Alma:
-    - İyileştirme:
      
