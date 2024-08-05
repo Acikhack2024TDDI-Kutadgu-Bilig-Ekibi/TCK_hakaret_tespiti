@@ -7,54 +7,54 @@
 
  2. Veri Toplama  <b><u>(Yapıldı, kodlar ve etiketlenen dataset eklendi)</u></b>
    - Veri Kaynağı:  8 Temmuz - 14 Temmuz 2024
-     - Popüler kadın programının Instagram hesabından yorumları toplamak için bir web scraping aracı kullanılacak.
+     - Popüler kadın programının Instagram hesabından yorumları toplamak için bir web scraping aracı kullanıldı.
    - Veri Setinin Oluşturulması: 15 Temmuz - 21 Temmuz 2024  
-     - Toplanan yorumlar, hakaret içeren ve içermeyen olarak etiketlenecek. 
+     - Toplanan yorumlar, hakaret içeren ve içermeyen olarak etiketlendi. 
      
  3. Veri Ön İşleme  22 Temmuz - 28 Temmuz 2024  <b>(Yapıldı ve 3- Veri Ön İşleme.ipynb adlı dosya eklendi )</b>
    - Temizlik:
-     - Toplanan verilerdeki gereksiz karakterler, boşluklar ve özel semboller temizlenecek.
+     - Toplanan verilerdeki gereksiz karakterler, boşluklar ve özel semboller temizlendi.
    - Tokenizasyon:
      - Metinler kelimelere veya alt kelimelere ayrılacak.
    - Düşük Frekanslı Kelimelerin Çıkarılması:
-     - Sıklığı düşük olan kelimeler veri setinden çıkarılacak (Stop-Word).
+     - Sıklığı düşük olan kelimeler veri setinden çıkarıldı (Stop-Word).
    - Kelime Gömme:
      - Kelimeleri sayısal verilere dönüştürmek için Word2Vec, GloVe, BERT Transformatörler gibi teknikler kullanıldı.
 
  4. Model Seçimi   28 Temmuz - 31 Temmuz 2024 
    - Derin Öğrenme Modelleri:  
-     - LSTM, BiLSTM, GRU, CNN gibi derin öğrenme modelleri belirlenecek.
+     - LSTM, BiLSTM, GRU, CNN gibi derin öğrenme modelleri belirlendi.
    - Klasik Makine Öğrenmesi Modelleri:
-     - Naive Bayes, SVM, Karar Ağacı, Rastgele Orman, Lojistik Regresyon gibi klasik makine öğrenmesi teknikleri belirlenecek.
+     - Naive Bayes, SVM, Karar Ağacı, Rastgele Orman, Lojistik Regresyon gibi klasik makine öğrenmesi teknikleri belirlendi.
 
  5. Model Geliştirme  28 Temmuz - 31 Temmuz 2024 
    - Modelin Eğitilmesi:   
-     - Seçilen modeller eğitim verisi ile eğitilecek.
+     - Seçilen modeller eğitim verisi ile eğitildi.
    - Hiperparametre Ayarı:
-     - Modellerin hiperparametre ayarları optimize edilecek.
+     - Modellerin hiperparametre ayarları optimize edildi.
    - Modelin Değerlendirilmesi:
-     - Eğitim ve test verileri kullanılarak modellerin performansı değerlendirilecek.
+     - Eğitim ve test verileri kullanılarak modellerin performansı değerlendirildi.
 
  6. Performans Ölçümü    31 Temmuz - 04 Temmuz 2024 
    - Performans Metrikleri:
-     - Makro F1 puanı, doğruluk, hassasiyet ve geri çağırma gibi metrikler hesaplanacak.
+     - Makro F1 puanı, doğruluk, hassasiyet ve geri çağırma gibi metrikler hesaplandı.
    - Karşılaştırma:
-     - Derin öğrenme ve klasik makine öğrenmesi modelleri bu metrikler açısından karşılaştırılacak.
+     - Derin öğrenme ve klasik makine öğrenmesi modelleri bu metrikler açısından karşılaştırıldı.
 
  7. Sonuçların Analizi   28 Temmuz - 31 Temmuz 2024 
    - Model Başarısı:
-     - Hangi modelin en iyi sonuçları verdiği analiz edilecek.
+     - Hangi modelin en iyi sonuçları verdiği analiz edildi.
    - Hata Analizi:
-     - Yanlış sınıflandırılan örnekler incelenecek ve modelin zayıf noktaları belirlenecek.
+     - Yanlış sınıflandırılan örnekler incelendi ve modelin zayıf noktaları belirlendi.
 
  8. Uygulama Geliştirme 31 Temmuz - 4 Ağustos  2024 
    - Modelin Entegrasyonu:
-     - En iyi performansı gösteren model, sosyal medya platformlarında kullanılabilir bir yorum filtreleme sistemi olacak.
+     - En iyi performansı gösteren model, sosyal medya platformlarında kullanılabilir bir yorum filtreleme sistemi oldu. 
    
  9. Sonuçların Raporlanması 31 Temmuz - 4 Ağustos  2024 
    - Rapor Yazımı:
-     - Proje süreci, bulgular ve sonuçlar içeren bir rapor hazırlanacak.
+     - Proje süreci, bulgular ve sonuçlar içeren bir rapor hazırlandı.
    - Sunum Hazırlığı:
-     - Projeyi sunmak için bir sunum hazırlanacak ve mentorün geri bildirimleriyle geliştirilecek.
+     
 
      
