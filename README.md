@@ -14,7 +14,7 @@ Hiper parametre Ayarı:<br>
 Modelin Değerlendirilmesi:<br>
 Performans Ölçümü 31 Temmuz - 04 Temmuz 2024<br>
 Performans Metrikleri:<br>
-Makro F1 puanı, doğruluk, hassasiyet ve geri çağırma gibi metrikler hesaplandı.<br>
+Makro F1 puanı, doğruluk, hassasiyet ve geri çağırma gibi metriklerle hesaplandı.<br>
 Karşılaştırma:<br>
 Sonuçların Analizi 28 Temmuz - 31 Temmuz 2024<br>
 Model Başarısı:<br>
