@@ -22,6 +22,3 @@ Model Başarısı:
 Rapor Yazımı:
 Sunum Yazımı:
 Demo Oluşturma:
-![image](https://github.com/user-attachments/assets/6972cbff-580d-4806-a2dd-491c0b1d0b59)
-
-![image](https://github.com/user-attachments/assets/cf215f2d-9ce0-4e73-8620-f481101682fd)
